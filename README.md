@@ -13,8 +13,9 @@ The model was developed using the DAiSEE Dataset containing multi-label videos c
 dataset and the classification accuracy, the model is very sensitive to signs of comprehension problems, as used in this 
 project. A better model is in development, and I am open to improvements from others.
 
-
 ![](fig/Architecture.PNG)
+
+
 
 # Quick Start
 Make sure that OpenFace is installed correctly according to your operating system. E.g. for Windows see the [Wiki](https://github.com/TadasBaltrusaitis/OpenFace/wiki/Windows-Installation).
