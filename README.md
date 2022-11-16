@@ -13,8 +13,7 @@ The model was developed using the DAiSEE Dataset containing multi-label videos c
 dataset and the classification accuracy, the model is very sensitive to signs of comprehension problems, as used in this 
 project. A better model is in development, and I am open to improvements from others.
 
-
-![archi](Architecture.png)
+![archi](fig/Architecture.png)
 
 
 
