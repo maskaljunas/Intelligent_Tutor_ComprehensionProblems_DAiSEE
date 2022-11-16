@@ -14,7 +14,7 @@ dataset and the classification accuracy, the model is very sensitive to signs of
 project. A better model is in development, and I am open to improvements from others.
 
 
-![archi](fig/Architecture.PNG)
+![](fig/Architecture.PNG)
 
 # Quick Start
 Make sure that OpenFace is installed correctly according to your operating system. E.g. for Windows see the [Wiki](https://github.com/TadasBaltrusaitis/OpenFace/wiki/Windows-Installation).
